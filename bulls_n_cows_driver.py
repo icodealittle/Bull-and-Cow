@@ -1,12 +1,3 @@
-'''
-CS 5001
-FALL 2019
-Soumeng Chea
-Programming 2
-
-I consulted with TA's, classmates, and friends from other institute.
-'''
-
 from bulls_n_cows import generator, dup_digits, counts_bulls_and_cows, user_player
 max_guess = 7
 
