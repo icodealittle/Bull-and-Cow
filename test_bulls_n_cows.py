@@ -1,11 +1,3 @@
-'''
-CS 5001
-FALL 2019
-Soumeng Chea
-Programming 2
-
-I consulted with TA's, classmates, and friends from other institute.
-'''
 from bulls_n_cows import *
 TEST_GUESSES = [[1, 2, 3, 4], [5, 2, 3, 4], [7, 6, 5, 4], [0, 9, 8, 5],
                 [2, 4, 6, 8], [1, 3, 5, 7], [1, 2, 0, 9]]
